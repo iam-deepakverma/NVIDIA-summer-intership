@@ -100,3 +100,5 @@ kubectl get services
 ```kubernetes
 kubectl exec -it <podname> -- bash
 ```
+
+## Run jupyter command after entering BASH
