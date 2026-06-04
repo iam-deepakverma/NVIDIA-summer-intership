@@ -430,7 +430,7 @@ print("Best Accuracy:", round(results[best_model],2), "%")
 </p>
 
 ## Loading dataset of plant village
-```code
+```python
 from datasets import load_dataset
 dataset = load_dataset("dpdl-benchmark/plant_village")
 print(dataset)
