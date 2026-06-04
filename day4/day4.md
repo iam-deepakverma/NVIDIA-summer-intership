@@ -228,5 +228,5 @@ Retrieved 2026-06-04, License - CC BY-SA 4.0
 -->
 
 <p align="center">
-  <img src="./9965.jpg" style="height:32rem; width:auto;" />
+  <img src="./9965.png" style="height:32rem; width:auto;" />
 </p>
