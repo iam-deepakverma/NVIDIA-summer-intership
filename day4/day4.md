@@ -221,4 +221,12 @@ print("Best Accuracy:", round(results[best_model],2), "%")
 
 ```
 
-![GitHub Logo](9965.jpg)
+<!--
+Source - https://stackoverflow.com/a/12118349
+Posted by waldyr.ar, modified by community. See post 'Timeline' for change history
+Retrieved 2026-06-04, License - CC BY-SA 4.0
+-->
+
+<p align="center">
+  <img src="./9965.jpg" style="height:32rem; width:auto;" />
+</p>
