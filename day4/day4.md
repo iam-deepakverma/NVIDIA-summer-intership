@@ -428,3 +428,21 @@ print("Best Accuracy:", round(results[best_model],2), "%")
 <p align="center">
   <img src="./image2.png" style="height:32rem; width:auto;" />
 </p>
+
+## Loading dataset of plant village
+```code
+from datasets import load_dataset
+dataset = load_dataset("dpdl-benchmark/plant_village")
+print(dataset)
+print(dataset["train"][0])
+```
+### output :
+```
+DatasetDict({
+    train: Dataset({
+        features: ['image', 'image/filename', 'label'],
+        num_rows: 54303
+    })
+})
+{'image': <PIL.PngImagePlugin.PngImageFile image mode=RGB size=256x256 at 0x78006204BBC0>, 'image/filename': "b'image (785).JPG'", 'label': 35}
+```
